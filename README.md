@@ -1,4 +1,3 @@
-# Delani Studio
 
 # Delani-studio.
 [Check it out](https://dmalakwen.github.io/delani-studio/)
