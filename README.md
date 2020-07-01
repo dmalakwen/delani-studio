@@ -14,7 +14,7 @@ A web application that use boostrap and Jquery for Delani Studio
  
  ``extract the file``
  
- ``cd to the Akan-Names directory``
+ ``cd to the Delani-Studio directory``
  
  > ``Open the index.html on your favorite browser``
  
