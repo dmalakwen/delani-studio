@@ -30,6 +30,13 @@ A web application that use boostrap and Jquery for Delani Studio
   * html5
   
 
+## BDD
+| Behaviour      | Input        | Output       |
+| :------------- | :----------: | -----------: |
+|  Enter your name  |   Daniel Malakwen|     |
+| Enter your Email Address  | mmdan006@gmail.com |   |
+| Enter your message or comment   |  I would love to work with you     |     |
+| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 *None for  now .Kindly share with us any that you may come accross
