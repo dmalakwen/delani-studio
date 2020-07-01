@@ -20,9 +20,8 @@ A web application that use boostrap and Jquery for Delani Studio
  
   ## Screenshoot
   
-  x-special/nautilus-clipboard
-copy
-file:///home/dmalakwen/Documents/moringa-school-projects/delani-studio/delani-studio/images/deploy.png
+  
+https://github.com/dmalakwen/delani-studio/blob/master/images/deploy.png
 
   
 ## Technologies used.
