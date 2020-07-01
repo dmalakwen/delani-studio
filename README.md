@@ -20,7 +20,7 @@ A web application that use boostrap and Jquery for Delani Studio
  
   ## Screenshoot
   
-  <img src="https://github.com/dmalakwen/delani-studio/blob/master/images/deploy.png" width="700px" height="400px">
+  <img src="https://github.com/dmalakwen/delani-studio/blob/master/images/deploy.png" width="950px" height="500px">
 
 ## Technologies used.
   * Jquery
