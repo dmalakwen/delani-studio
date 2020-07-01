@@ -19,8 +19,12 @@ A web application that use boostrap and Jquery for Delani Studio
  > ``Open the index.html on your favorite browser``
  
   ## Screenshoot
-   https://dmalakwen.github.io/delani-studio/
+  
+  x-special/nautilus-clipboard
+copy
+file:///home/dmalakwen/Documents/moringa-school-projects/delani-studio/delani-studio/images/deploy.png
 
+  
 ## Technologies used.
   * Jquery
   * Css
