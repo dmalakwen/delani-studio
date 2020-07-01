@@ -17,6 +17,9 @@ A web application that use boostrap and Jquery for Delani Studio
  ``cd to the Akan-Names directory``
  
  > ``Open the index.html on your favorite browser``
+ 
+  ## Screenshoot
+   https://dmalakwen.github.io/delani-studio/
 
 ## Technologies used.
   * Jquery
