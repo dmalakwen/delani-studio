@@ -5,7 +5,8 @@
 ## Description.
 A web application that use boostrap and Jquery for Delani Studio
 
- ## Author.
+ ## Author
+ 
  Daniel Malakwen
 
 
